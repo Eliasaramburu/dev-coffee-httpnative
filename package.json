@@ -1,0 +1,10 @@
+{
+  "name": "dev-coffee-httpnative",
+  "version": "1.0.0",
+  "description": "Dev Coffee API: servidor HTTP com módulos nativos do Node.js, sem dependências externas.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC"
+}
